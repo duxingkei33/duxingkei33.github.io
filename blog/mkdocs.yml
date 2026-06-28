@@ -1,0 +1,47 @@
+site_name: duxingkei 的博客
+site_url: https://duxingkei33.github.io
+site_description: 技术笔记与项目管理
+site_author: duxingkei
+
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+plugins:
+  - search
+  - blog:
+      blog_dir: .
+      post_dir: posts
+      post_date_format: short
+  - rss:
+      match_path: ".*"
+      date_from_meta:
+        as_creation: date
+      categories_enabled: true
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tabbed
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/duxingkei33
+
+copyright: Copyright &copy; 2026 duxingkei
+
+nav:
+  - 首页: index.md
