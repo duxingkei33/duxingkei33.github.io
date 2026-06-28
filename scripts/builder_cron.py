@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ContentHub 自动构建推送脚本
+FlashSloth 自动构建推送脚本
 每 N 分钟运行一次：
 1. 检查 blog/docs/posts/ 是否有新/修改的文件
 2. 如果有变化 → mkdocs build → git commit → git push
@@ -88,7 +88,7 @@ def git_push():
 
 
 def main():
-    print(f"[{datetime.now().isoformat()}] 🔄 ContentHub 自动构建检查...")
+    print(f"[{datetime.now().isoformat()}] 🔄 FlashSloth 自动构建检查...")
 
     # 1. 检查文章是否有变化
     current_hash = get_posts_hash()
