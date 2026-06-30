@@ -1,15 +1,40 @@
-# 🦥 FlashSloth Blog
+# 🦥 duxingkei 的博客
 
-> 树懒的速度，闪电的发布 🌩️
+> 技术笔记与项目管理 | ESPHome / Home Assistant / 嵌入式开发
 
-个人技术博客，由 [FlashSloth](https://github.com/duxingkei33/flashsloth) 多平台内容发布系统管理。
+个人技术博客，由 [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 构建，通过 GitHub Actions 自动部署到 GitHub Pages。
 
-## 📖 内容
+## 本地开发
 
-- 嵌入式开发、硬件工程
-- ESPHome / Home Assistant 智能家居
-- 开源项目记录
-- 技术随笔
+```bash
+# 构建
+cd blog && hugo
+
+# 本地预览
+cd blog && hugo server -D
+```
+
+## 发布文章
+
+在 `blog/content/posts/` 下创建 Markdown 文件，frontmatter 格式：
+
+```yaml
+---
+title: "文章标题"
+date: 2026-06-30
+slug: "xianyu-gateway"
+summary: "文章摘要"
+tags:
+  - 标签1
+  - 标签2
+---
+```
+
+文章 URL 自动生成为 `/YYYY/MM/DD/slug/`。
+
+## 评论系统
+
+使用 [Giscus](https://giscus.app/) — 基于 GitHub Discussions 的评论系统。配置完成后在 `hugo.toml` 中填入 `repoId` 和 `categoryId`。
 
 ## 🔗 链接
 
@@ -39,4 +64,4 @@
 
 ---
 
-*🦥 Built with FlashSloth*
+*🦥 Built with Hugo + PaperMod*

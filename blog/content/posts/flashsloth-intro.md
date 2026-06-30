@@ -1,7 +1,8 @@
 ---
-title: FlashSloth —— 开源多平台内容发布系统
+title: "FlashSloth —— 开源多平台内容发布系统"
 date: 2026-06-29
-summary: FlashSloth，树懒的速度，闪电的发布。一个开源的多平台内容一键发布系统。
+slug: "flashsloth-intro"
+summary: "FlashSloth，树懒的速度，闪电的发布。一个开源的多平台内容一键发布系统。"
 tags:
   - 开源
   - FlashSloth
@@ -41,4 +42,4 @@ FlashSloth 以开源方式发布，欢迎 Star、Fork、提 Issue 和 PR。
 
 ---
 
-*本文由 FlashSloth 自动创建并发布。*
+_本文由 FlashSloth 自动创建并发布。_
