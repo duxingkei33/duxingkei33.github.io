@@ -1,7 +1,7 @@
 ---
 title: 咸鱼淘了两个网关，大家看看能不能刷机玩？
 date: 2026-06-30
-slug: xianyutaolelianggewangguandajiakankannengbunengshuajiwan
+slug: xianyu-gateway
 summary: 咸鱼淘了两个二手网关，上几张图给大家看看是什么芯片，能不能刷机玩？
 tags:
   - 网关
