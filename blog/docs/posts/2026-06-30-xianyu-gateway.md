@@ -16,14 +16,14 @@ tags:
 <p>这种二手网关如果能刷机玩就赚了，比如刷 OpenWrt、Tasmota、ESPHome 之类的。有没有懂行的坛友帮忙看看？</p>
 
 <h3>先上图：</h3>
-<p style="text-align:center;"><img src="/static/uploads/img_1.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
-<p style="text-align:center;"><img src="/static/uploads/img_2.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
-<p style="text-align:center;"><img src="/static/uploads/img_3.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
-<p style="text-align:center;"><img src="/static/uploads/img_4.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
-<p style="text-align:center;"><img src="/static/uploads/img_5.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
-<p style="text-align:center;"><img src="/static/uploads/img_6.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
-<p style="text-align:center;"><img src="/static/uploads/img_7.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
-<p style="text-align:center;"><img src="/static/uploads/img_8.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_1.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_2.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_3.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_4.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_5.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_6.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_7.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
+<p style="text-align:center;"><img src="/images/img_8.jpg" style="max-width:100%%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.1);"></p>
 
 
 <h3>几个问题想请教大家：</h3>
