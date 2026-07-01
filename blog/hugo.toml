@@ -49,9 +49,9 @@ enableRobotsTXT = true
 
   [params.giscus]
     repo = "duxingkei33/duxingkei33.github.io"
-    repoId = ""
-    category = "Announcements"
-    categoryId = ""
+    repoId = "R_kgDOTHcTiA"
+    category = "General"
+    categoryId = "DIC_kwDOTHcTiM4DAR_i"
     mapping = "pathname"
     strict = "0"
     reactionsEnabled = "1"
